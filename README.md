@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm Chaewon Hwang</h1>
 
-- 🌱 I’m currently learning "Frontend"
 - 📫 How to reach me **hcw900517@gmail.com**
 
 <p align="left">
